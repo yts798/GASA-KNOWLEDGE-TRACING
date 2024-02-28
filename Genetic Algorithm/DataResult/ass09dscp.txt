@@ -1,0 +1,23 @@
+Columns:
+['order_id', 'assignment_id', 'user_id', 'assistment_id', 'problem_id',
+       'original', 'correct', 'attempt_count', 'ms_first_response',
+       'tutor_mode', 'answer_type', 'sequence_id', 'student_class_id',
+       'position', 'type', 'base_sequence_id', 'skill_id', 'skill_name',
+       'teacher_id', 'school_id', 'hint_count', 'hint_total', 'overlap_time',
+       'template_id', 'answer_id', 'answer_text', 'first_action',
+       'bottom_hint', 'opportunity', 'opportunity_original']
+
+30 attributes
+student:
+'user_id' 
+4217
+result: 
+'correct'
+question: 
+'problem_id'
+26688
+knowledge component: 
+'skill_id'
+149
+interaction:
+346860

@@ -1,0 +1,15 @@
+Columns:
+['user_id', 'log_id', 'sequence_id', 'correct']
+4 attributes
+student:
+'user_id' 
+19917
+result: 
+'correct'
+question: 
+'sequence_id'
+100
+knowledge component: 
+Null
+interaction:
+708631

@@ -1,0 +1,15 @@
+Columns:
+['User', 'Submit Time', 'Problem', 'Result']
+4 attributes
+student:
+'User' 
+22916
+result: 
+'Result'
+question: 
+'Problem'
+2750
+knowledge component: 
+null
+interaction:
+996240

@@ -1,0 +1,29 @@
+Columns:
+['Row', 'Sample Name', 'Transaction Id', 'Anon Student Id', 'Session Id',
+       'Time', 'Time Zone', 'Duration (sec)', 'Student Response Type',
+       'Student Response Subtype', 'Tutor Response Type',
+       'Tutor Response Subtype', 'Level (Sequence)', 'Level (Unit)',
+       'Level (Module)', 'Level (Section1)', 'Problem Name', 'Problem View',
+       'Problem Start Time', 'Step Name', 'Attempt At Step', 'Is Last Attempt',
+       'Outcome', 'Selection', 'Action', 'Input', 'Input.1', 'Feedback Text',
+       'Feedback Classification', 'Help Level', 'Total Num Hints',
+       'KC (Single-KC)', 'KC Category (Single-KC)', 'KC (Unique-step)',
+       'KC Category (Unique-step)', 'KC (F2011)', 'KC Category (F2011)',
+       'KC (F2011).1', 'KC Category (F2011).1', 'KC (F2011).2',
+       'KC Category (F2011).2', 'School', 'Class', 'CF (oli:activityGuid)',
+       'CF (oli:highStakes)', 'CF (oli:purpose)', 'CF (oli:resourceType)',
+       'Problem Step Name']
+48 attributes
+student:
+'Anon Student Id' 
+335 tp 333
+result: 
+'Outcome'
+question: 
+'Problem Step Name'
+1224 to 1223
+knowledge component: 
+'KC (F2011)'
+80 to 80
+interaction:
+361092 to 189297

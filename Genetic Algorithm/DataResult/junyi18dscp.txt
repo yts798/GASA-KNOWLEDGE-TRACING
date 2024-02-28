@@ -1,0 +1,19 @@
+Columns:
+['timestamp_TW', 'uuid', 'ucid', 'upid', 'problem_number',
+       'exercise_problem_repeat_session', 'is_correct', 'total_sec_taken',
+       'total_attempt_cnt', 'used_hint_cnt', 'is_hint_used', 'is_downgrade',
+       'is_upgrade', 'level']
+14 attributes
+student:
+'uuid' 
+72758 To 71291
+result: 
+'is_correct'
+question: 
+'upid'
+25785 to 25684
+knowledge component: 
+null
+interaction:
+16217310 to 12514071
+

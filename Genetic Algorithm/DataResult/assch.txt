@@ -1,0 +1,39 @@
+Columns:
+['studentId', 'MiddleSchoolId', 'InferredGender', 'SY ASSISTments Usage',
+       'AveKnow', 'AveCarelessness', 'AveCorrect', 'NumActions', 'AveResBored',
+       'AveResEngcon', 'AveResConf', 'AveResFrust', 'AveResOfftask',
+       'AveResGaming', 'action_num', 'skill', 'problemId', 'problemType',
+       'assignmentId', 'assistmentId', 'startTime', 'endTime', 'timeTaken',
+       'correct', 'original', 'hint', 'hintCount', 'hintTotal', 'scaffold',
+       'bottomHint', 'attemptCount', 'frIsHelpRequest', 'frPast5HelpRequest',
+       'frPast8HelpRequest', 'stlHintUsed', 'past8BottomOut',
+       'totalFrPercentPastWrong', 'totalFrPastWrongCount', 'frPast5WrongCount',
+       'frPast8WrongCount', 'totalFrTimeOnSkill', 'timeSinceSkill',
+       'frWorkingInSchool', 'totalFrAttempted', 'totalFrSkillOpportunities',
+       'responseIsFillIn', 'responseIsChosen', 'endsWithScaffolding',
+       'endsWithAutoScaffolding', 'frTimeTakenOnScaffolding',
+       'frTotalSkillOpportunitiesScaffolding',
+       'totalFrSkillOpportunitiesByScaffolding', 'frIsHelpRequestScaffolding',
+       'timeGreater5Secprev2wrong', 'sumRight', 'helpAccessUnder2Sec',
+       'timeGreater10SecAndNextActionRight', 'consecutiveErrorsInRow',
+       'sumTime3SDWhen3RowRight', 'sumTimePerSkill',
+       'totalTimeByPercentCorrectForskill', 'Prev5count', 'timeOver80',
+       'manywrong', 'confidence(BORED)', 'confidence(CONCENTRATING)',
+       'confidence(CONFUSED)', 'confidence(FRUSTRATED)',
+       'confidence(OFF TASK)', 'confidence(GAMING)', 'RES_BORED',
+       'RES_CONCENTRATING', 'RES_CONFUSED', 'RES_FRUSTRATED', 'RES_OFFTASK',
+       'RES_GAMING', 'Ln-1', 'Ln', 'MCAS', 'Enrolled', 'Selective', 'isSTEM']
+82 attributes
+student:
+'studentId' 
+1709
+result: 
+'correct'
+question: 
+'problemId'
+3162
+knowledge component: 
+skill
+102
+interaction:
+942816

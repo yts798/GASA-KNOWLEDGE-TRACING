@@ -1,0 +1,19 @@
+Columns:
+['user_id', 'exercise', 'problem_type', 'problem_number', 'topic_mode',
+       'suggested', 'review_mode', 'time_done', 'time_taken',
+       'time_taken_attempts', 'correct', 'count_attempts', 'hint_used',
+       'count_hints', 'hint_time_taken_list', 'earned_proficiency',
+       'points_earned']
+17 attributes
+student:
+'user_id' 
+247606 To 227250
+result: 
+'correct'
+question: 
+'exercise'
+722 to 716
+knowledge component: 
+null
+interaction:
+25925992 to 21571469
